@@ -1,7 +1,7 @@
 <h3>
 <p align="center">
 <a>
-Hi, Im Artem from Ukraine
+Hi, Im Artem from  :ukraine:
 <a/>
 </p>
 <h3/>
@@ -15,16 +15,17 @@ My links
 <h3/>
 <p align="center">
   <a href= "https://t.me/peace_akame">
-    <img src="https://img.icons8.com/fluency/30/000000/telegram-app.png"/>
+    <img src="https://img.icons8.com/fluency-systems-regular/48/telegram-app.png"/>    
   </a>
+
   <a href= "https://instagram.com/peace_akame">
-    <img src="https://img.icons8.com/fluency/30/000000/instagram-new.png"/>
+    <img src="https://img.icons8.com/fluency-systems-regular/48/instagram-new--v1.png""/>
   </a>
   <a href= "https://github.com/badmodest">
-    <img src="https://img.icons8.com/fluency/30/000000/github.png"/>
+    <img src="https://img.icons8.com/fluency-systems-regular/48/github.png"/>
   </a>
   <a href= "https://badmodest.github.io/">
-    <img src="https://img.icons8.com/fluency/30/000000/web-design.png"/>
+    <img src="https://img.icons8.com/fluency-systems-regular/48/web-design.png"/>
   </a>
 </p>
 
